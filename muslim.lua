@@ -458,7 +458,7 @@ print('( تم وضع ترحيب المجموعات )')
 end
 end
 end
-send(chat,msg.id_,"🇸🇦︙تم رفع النسخه بنجاح \n🇸🇦︙تم تفعيل جميع المجموعات \n🇸🇦︙تم استرجاع مشرفين المجموعات \n🇸🇦︙تم استرجاع اوامر القفلوالفتح في جميع مجموعات البوت ")
+send(chat,msg.id_,"🇸🇦︙تم رفع النسخه بنجاح \n🇸🇦︙تم تفعيل جميع المجموعات \n🇸🇦︙تم استرجاع مشرفين المجموعات \n🇸🇦︙تم استرجاع اوامر القفل والفتح في جميع مجموعات البوت ")
 end
 --     Source dev yousef     --
 function resolve_username(username,cb)
@@ -1302,45 +1302,45 @@ local Help = DevAbs:get(muslim..'Abs:Help1')
 local Text = [[
 🇸🇦︙اوامر حماية المجموعة -› ⤈
 ------------ Y●L ------------
-🇸🇦︙قفل• فتح -› الروابط
-🇸🇦︙قفل• فتح -› المعرفات
-🇸🇦︙قفل• فتح -› البوتات
-🇸🇦︙قفل• فتح -› المتحركة
-🇸🇦︙قفل• فتح -› الملصقات
-🇸🇦︙قفل• فتح -› الملفات
-🇸🇦︙قفل• فتح -› الصور
-🇸🇦︙قفل• فتح -› الفيديو
-🇸🇦︙قفل• فتح -› الاونلاين
-🇸🇦︙قفل• فتح -› الدردشة
-🇸🇦︙قفل• فتح -› التوجيه
-🇸🇦︙قفل• فتح -› الاغاني
-🇸🇦︙قفل• فتح -› الصوت
-🇸🇦︙قفل• فتح -› الجهات
-🇸🇦︙قفل• فتح -› الماركداون
-🇸🇦︙قفل• فتح -› التكرار
-🇸🇦︙قفل• فتح -› الهاشتاك
-🇸🇦︙قفل• فتح -› التعديل
-🇸🇦︙قفل• فتح -› التثبيت
-🇸🇦︙قفل• فتح -› الاشعارات
-🇸🇦︙قفل• فتح -› المنشورات
-🇸🇦︙قفل• فتح -› الدخول
-🇸🇦︙قفل• فتح -› الشبكات
-🇸🇦︙قفل• فتح -› المواقع
-🇸🇦︙قفل• فتح -› السب
-🇸🇦︙قفل• فتح -› الكفر
-🇸🇦︙قفل• فتح -› الطائفيه
-🇸🇦︙قفل• فتح -› الكل
-🇸🇦︙قفل• فتح -› العربية
-🇸🇦︙قفل• فتح -› الانجليزية
-🇸🇦︙قفل• فتح -› الفارسية
-🇸🇦︙قفل• فتح -› التفليش
-🇸🇦︙قفل• فتح -› امسح
+🇸🇦︙قفل • فتح -› الروابط
+🇸🇦︙قفل • فتح -› المعرفات
+🇸🇦︙قفل • فتح -› البوتات
+🇸🇦︙قفل • فتح -› المتحركة
+🇸🇦︙قفل • فتح -› الملصقات
+🇸🇦︙قفل • فتح -› الملفات
+🇸🇦︙قفل • فتح -› الصور
+🇸🇦︙قفل • فتح -› الفيديو
+🇸🇦︙قفل • فتح -› الاونلاين
+🇸🇦︙قفل • فتح -› الدردشة
+🇸🇦︙قفل • فتح -› التوجيه
+🇸🇦︙قفل • فتح -› الاغاني
+🇸🇦︙قفل • فتح -› الصوت
+🇸🇦︙قفل • فتح -› الجهات
+🇸🇦︙قفل • فتح -› الماركداون
+🇸🇦︙قفل • فتح -› التكرار
+🇸🇦︙قفل • فتح -› الهاشتاك
+🇸🇦︙قفل • فتح -› التعديل
+🇸🇦︙قفل • فتح -› التثبيت
+🇸🇦︙قفل • فتح -› الاشعارات
+🇸🇦︙قفل • فتح -› المنشورات
+🇸🇦︙قفل • فتح -› الدخول
+🇸🇦︙قفل • فتح -› الشبكات
+🇸🇦︙قفل • فتح -› المواقع
+🇸🇦︙قفل • فتح -› السب
+🇸🇦︙قفل • فتح -› الكفر
+🇸🇦︙قفل • فتح -› الطائفيه
+🇸🇦︙قفل • فتح -› الكل
+🇸🇦︙قفل • فتح -› العربية
+🇸🇦︙قفل • فتح -› الانجليزية
+🇸🇦︙قفل • فتح -› الفارسية
+🇸🇦︙قفل • فتح -› التفليش
+🇸🇦︙قفل • فتح -› امسح
 🇸🇦︙تعطيل • تفعيل -› امسح
 🇸🇦︙تعطيل • تفعيل -› الحذف التقائي
 ------------ Y●L ------------
 🇸🇦︙اوامر حماية اخرى -› ⤈
 ------------ Y●L ------------
-🇸🇦︙قفل• فتح + الامر -› ⤈
+🇸🇦︙قفل • فتح + الامر -› ⤈
 🇸🇦︙التكرار بالطرد
 🇸🇦︙التكرار بالكتم
 🇸🇦︙التكرار بالتقيد
@@ -6590,7 +6590,7 @@ if DevAbs:get(muslim..'Abs:Lock:Clean'..msg.chat_id_) then if msg.content_.video
 if Manager(msg) and msg.reply_to_message_id_ ~= 0 then
 if text and text:match("^تثبيت$") and ChCheck(msg) then 
 if DevAbs:sismember(muslim.."Abs:Lock:Pinpin",msg.chat_id_) and not BasicConstructor(msg) then
-Dev_Abs(msg.chat_id_,msg.id_, 1, "🇸🇦︙التثبيت والغاء واعادة التثبيت تم قفله من قبل المنشئين الاساسيين", 1, 'md')
+Dev_Abs(msg.chat_id_,msg.id_, 1, "🇸🇦︙التثبيت والغاء واعادة التثبيت تم قفل ه من قبل المنشئين الاساسيين", 1, 'md')
 return false  
 end
 tdcli_function ({ID = "PinChannelMessage",channel_id_ = msg.chat_id_:gsub("-100",""),message_id_ = msg.reply_to_message_id_,disable_notification_ = 1},function(arg,data) 
@@ -7583,101 +7583,101 @@ end
 --     Source dev yousef     --
 if ChatType == 'sp' or ChatType == 'gp'  then
 if Admin(msg) then
-if text and text:match("^قفل(.*)$") then
-local LockText = {string.match(text, "^(قفل) (.*)$")}
+if text and text:match("^قفل (.*)$") then
+local LockText = {string.match(text, "^(قفل ) (.*)$")}
 if LockText[2] == "التعديل" then
 if not DevAbs:get(muslim..'Abs:Lock:EditMsgs'..msg.chat_id_) then
-ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفلالتعديل")  
+ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفل التعديل")  
 DevAbs:set(muslim..'Abs:Lock:EditMsgs'..msg.chat_id_,true)
 else
-Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙التعديل بالفعل مقفل في المجموعة', 1, 'md')
+Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙التعديل بالفعل مقفل  في المجموعة', 1, 'md')
 end
 end
 if LockText[2] == "التعديل الميديا" or LockText[2] == "تعديل الميديا" then
 if not DevAbs:get(muslim..'Abs:Lock:EditMsgs'..msg.chat_id_) then
-ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفلتعديل الميديا")  
+ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفل تعديل الميديا")  
 DevAbs:set(muslim..'Abs:Lock:EditMsgs'..msg.chat_id_,true)
 else
-Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙تعديل الميديا بالفعل مقفل في المجموعة', 1, 'md')
+Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙تعديل الميديا بالفعل مقفل  في المجموعة', 1, 'md')
 end
 end
 if LockText[2] == "الفارسية" then
 if not DevAbs:get(muslim..'Abs:Lock:Farsi'..msg.chat_id_) then
-ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفلالفارسية")  
+ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفل الفارسية")  
 DevAbs:set(muslim..'Abs:Lock:Farsi'..msg.chat_id_,true)
 else
-Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙الفارسية بالفعل مقفله في المجموعة', 1, 'md')
+Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙الفارسية بالفعل مقفل ه في المجموعة', 1, 'md')
 end
 end
 if LockText[2] == "السب" then
 if DevAbs:get(muslim..'Abs:Lock:Fshar'..msg.chat_id_) then
-ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفلالسب")  
+ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفل السب")  
 DevAbs:del(muslim..'Abs:Lock:Fshar'..msg.chat_id_)
 else
-Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙السب بالفعل مقفل في المجموعة', 1, 'md')
+Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙السب بالفعل مقفل  في المجموعة', 1, 'md')
 end
 end
 if LockText[2] == "الطائفيه" then
 if DevAbs:get(muslim..'Abs:Lock:Taf'..msg.chat_id_) then
-ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفلالطائفيه")  
+ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفل الطائفيه")  
 DevAbs:del(muslim..'Abs:Lock:Taf'..msg.chat_id_)
 else
-Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙الطائفيه بالفعل مقفله في المجموعة', 1, 'md')
+Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙الطائفيه بالفعل مقفل ه في المجموعة', 1, 'md')
 end
 end
 if LockText[2] == "الكفر" then
 if DevAbs:get(muslim..'Abs:Lock:Kfr'..msg.chat_id_) then
-ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفلالكفر")  
+ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفل الكفر")  
 DevAbs:del(muslim..'Abs:Lock:Kfr'..msg.chat_id_)
 else
-Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙الكفر بالفعل مقفل في المجموعة', 1, 'md')
+Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙الكفر بالفعل مقفل  في المجموعة', 1, 'md')
 end
 end
 if LockText[2] == "الفارسية بالطرد" then
 if not DevAbs:get(muslim..'Abs:Lock:FarsiBan'..msg.chat_id_) then
-ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفلالفارسية بالطرد")  
+ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفل الفارسية بالطرد")  
 DevAbs:set(muslim..'Abs:Lock:FarsiBan'..msg.chat_id_,true)
 else
-Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙الفارسية بالطرد بالفعل مقفله ', 1, 'md')
+Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙الفارسية بالطرد بالفعل مقفل ه ', 1, 'md')
 end
 end
 if LockText[2] == "البوتات" or LockText[2] == "البوتات بالحذف" then
-ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفلالبوتات بالحذف")  
+ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفل البوتات بالحذف")  
 DevAbs:set(muslim.."Abs:Lock:Bots"..msg.chat_id_,"del")  
 end
 if LockText[2] == "البوتات بالطرد" then
-ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفلالبوتات بالطرد")  
+ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفل البوتات بالطرد")  
 DevAbs:set(muslim.."Abs:Lock:Bots"..msg.chat_id_,"kick")  
 end
 if LockText[2] == "البوتات بالتقييد" or LockText[2] == "البوتات بالتقيد" then
-ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفلالبوتات بالتقيد")  
+ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفل البوتات بالتقيد")  
 DevAbs:set(muslim.."Abs:Lock:Bots"..msg.chat_id_,"ked")  
 end
 if LockText[2] == "التكرار" or LockText[2] == "التكرار بالحذف" then 
 DevAbs:hset(muslim.."Abs:Spam:Group:User"..msg.chat_id_ ,"Spam:User","del")  
-ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفلالتكرار بالحذف")  
+ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفل التكرار بالحذف")  
 end
 if LockText[2] == "التكرار بالطرد" then 
 DevAbs:hset(muslim.."Abs:Spam:Group:User"..msg.chat_id_ ,"Spam:User","kick")  
-ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفلالتكرار بالطرد")  
+ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفل التكرار بالطرد")  
 end
 if LockText[2] == "التكرار بالتقيد" or LockText[2] == "التكرار بالتقييد" then 
 DevAbs:hset(muslim.."Abs:Spam:Group:User"..msg.chat_id_ ,"Spam:User","keed")  
-ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفلالتكرار بالتقيد")  
+ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفل التكرار بالتقيد")  
 end
 if LockText[2] == "التكرار بالكتم" then 
 DevAbs:hset(muslim.."Abs:Spam:Group:User"..msg.chat_id_ ,"Spam:User","mute")  
-ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفلالتكرار بالكتم")  
+ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفل التكرار بالكتم")  
 end
 if BasicConstructor(msg) then
 if LockText[2] == "التثبيت" then
 if not DevAbs:get(muslim..'Abs:Lock:Pin'..msg.chat_id_) then
 tdcli_function ({ ID = "GetChannelFull",  channel_id_ = msg.chat_id_:gsub("-100","") }, function(arg,data)  DevAbs:set(muslim.."Abs:PinnedMsg"..msg.chat_id_,data.pinned_message_id_)  end,nil)
-ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفلالتثبيت")  
+ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفل التثبيت")  
 DevAbs:set(muslim..'Abs:Lock:Pin'..msg.chat_id_,true)
 DevAbs:sadd(muslim.."Abs:Lock:Pinpin",msg.chat_id_) 
 else
-Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙التثبيت بالفعل مقفل في المجموعة', 1, 'md')
+Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙التثبيت بالفعل مقفل  في المجموعة', 1, 'md')
 end end end
 end
 end
@@ -8116,182 +8116,182 @@ end
 end
 --     Source dev yousef     --
 if Admin(msg) then
-if text and text:match("^قفل(.*)$") then
-local LockText = {string.match(text, "^(قفل) (.*)$")}
+if text and text:match("^قفل (.*)$") then
+local LockText = {string.match(text, "^(قفل ) (.*)$")}
 if LockText[2] == "الدردشة" then
 if not DevAbs:get(muslim..'Abs:Lock:Text'..msg.chat_id_) then
-ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفلالدردشة")  
+ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفل الدردشة")  
 DevAbs:set(muslim..'Abs:Lock:Text'..msg.chat_id_,true)
 else
-Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙الدردشة بالفعل مقفله في المجموعة', 1, 'md')
+Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙الدردشة بالفعل مقفل ه في المجموعة', 1, 'md')
 end
 end
 if LockText[2] == "الاونلاين" then
 if not DevAbs:get(muslim..'Abs:Lock:Inline'..msg.chat_id_) then
-ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفلالاونلاين")  
+ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفل الاونلاين")  
 DevAbs:set(muslim..'Abs:Lock:Inline'..msg.chat_id_,true)
 else
-Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙الاونلاين بالفعل مقفل في المجموعة', 1, 'md')
+Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙الاونلاين بالفعل مقفل  في المجموعة', 1, 'md')
 end
 end
 if LockText[2] == "الصور" then
 if not DevAbs:get(muslim..'Abs:Lock:Photo'..msg.chat_id_) then
-ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفلالصور")  
+ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفل الصور")  
 DevAbs:set(muslim..'Abs:Lock:Photo'..msg.chat_id_,true)
 else
-Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙الصور بالفعل مقفله في المجموعة', 1, 'md')
+Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙الصور بالفعل مقفل ه في المجموعة', 1, 'md')
 end
 end
 if LockText[2] == "المنشورات" then
 if not DevAbs:get(muslim..'Abs:Lock:Spam'..msg.chat_id_) then
-ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفلالمنشورات")  
+ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفل المنشورات")  
 DevAbs:set(muslim..'Abs:Lock:Spam'..msg.chat_id_,true)
 else
-Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙المنشورات بالفعل مقفله في المجموعة', 1, 'md')
+Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙المنشورات بالفعل مقفل ه في المجموعة', 1, 'md')
 end
 end
 if LockText[2] == "الدخول" then
 if not DevAbs:get(muslim..'Abs:Lock:Join'..msg.chat_id_) then
-ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفلالدخول")  
+ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفل الدخول")  
 DevAbs:set(muslim..'Abs:Lock:Join'..msg.chat_id_,true)
 else
-Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙الدخول بالفعل مقفل في المجموعة', 1, 'md')
+Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙الدخول بالفعل مقفل  في المجموعة', 1, 'md')
 end
 end
 if LockText[2] == "الفيديو" then
 if not DevAbs:get(muslim..'Abs:Lock:Videos'..msg.chat_id_) then
-ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفلالفيديو")  
+ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفل الفيديو")  
 DevAbs:set(muslim..'Abs:Lock:Videos'..msg.chat_id_,true)
 else
-Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙الفيديو بالفعل مقفل في المجموعة', 1, 'md')
+Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙الفيديو بالفعل مقفل  في المجموعة', 1, 'md')
 end
 end
 if LockText[2] == "المتحركة" then
 if not DevAbs:get(muslim..'Abs:Lock:Gifs'..msg.chat_id_) then
-ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفلالمتحركة")  
+ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفل المتحركة")  
 DevAbs:set(muslim..'Abs:Lock:Gifs'..msg.chat_id_,true)
 else
-Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙المتحركة بالفعل مقفله في المجموعة', 1, 'md')
+Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙المتحركة بالفعل مقفل ه في المجموعة', 1, 'md')
 end
 end
 if LockText[2] == "الاغاني" then
 if not DevAbs:get(muslim..'Abs:Lock:Music'..msg.chat_id_) then
-ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفلالاغاني")  
+ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفل الاغاني")  
 DevAbs:set(muslim..'Abs:Lock:Music'..msg.chat_id_,true)
 else
-Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙الاغاني بالفعل مقفله في المجموعة', 1, 'md')
+Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙الاغاني بالفعل مقفل ه في المجموعة', 1, 'md')
 end
 end
 if LockText[2] == "الصوت" then
 if not DevAbs:get(muslim..'Abs:Lock:Voice'..msg.chat_id_) then
-ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفلالصوت")  
+ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفل الصوت")  
 DevAbs:set(muslim..'Abs:Lock:Voice'..msg.chat_id_,true)
 else
-Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙الصوت بالفعل مقفل في المجموعة', 1, 'md')
+Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙الصوت بالفعل مقفل  في المجموعة', 1, 'md')
 end
 end
 if LockText[2] == "الروابط" then
 if not DevAbs:get(muslim..'Abs:Lock:Links'..msg.chat_id_) then
-ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفلالروابط")  
+ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفل الروابط")  
 DevAbs:set(muslim..'Abs:Lock:Links'..msg.chat_id_,true)
 else
-Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙الروابط بالفعل مقفله في المجموعة', 1, 'md')
+Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙الروابط بالفعل مقفل ه في المجموعة', 1, 'md')
 end
 end
 if LockText[2] == "المواقع" then
 if not DevAbs:get(muslim..'Abs:Lock:Location'..msg.chat_id_) then
-ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفلالمواقع")  
+ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفل المواقع")  
 DevAbs:set(muslim..'Abs:Lock:Location'..msg.chat_id_,true)
 else
-Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙المواقع بالفعل مقفله في المجموعة', 1, 'md')
+Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙المواقع بالفعل مقفل ه في المجموعة', 1, 'md')
 end
 end
 if LockText[2] == "المعرف" or LockText[2] == "المعرفات" then
 if not DevAbs:get(muslim..'Abs:Lock:Tags'..msg.chat_id_) then
-ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفلالمعرفات")  
+ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفل المعرفات")  
 DevAbs:set(muslim..'Abs:Lock:Tags'..msg.chat_id_,true)
 else
-Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙المعرفات بالفعل مقفله في المجموعة', 1, 'md')
+Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙المعرفات بالفعل مقفل ه في المجموعة', 1, 'md')
 end
 end
 if LockText[2] == "الملفات" then
 if not DevAbs:get(muslim..'Abs:Lock:Document'..msg.chat_id_) then
-ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفلالملفات")  
+ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفل الملفات")  
 DevAbs:set(muslim..'Abs:Lock:Document'..msg.chat_id_,true)
 else
-Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙الملفات بالفعل مقفله في المجموعة', 1, 'md')
+Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙الملفات بالفعل مقفل ه في المجموعة', 1, 'md')
 end
 end
 if LockText[2] == "الهاشتاك" or LockText[2] == "التاك" then
 if not DevAbs:get(muslim..'Abs:Lock:Hashtak'..msg.chat_id_) then
-ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفلالهاشتاك")  
+ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفل الهاشتاك")  
 DevAbs:set(muslim..'Abs:Lock:Hashtak'..msg.chat_id_,true)
 else
-Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙الهاشتاك بالفعل مقفل في المجموعة', 1, 'md')
+Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙الهاشتاك بالفعل مقفل  في المجموعة', 1, 'md')
 end
 end
 if LockText[2] == "الجهات" then
 if not DevAbs:get(muslim..'Abs:Lock:Contact'..msg.chat_id_) then
-ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفلالجهات")  
+ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفل الجهات")  
 DevAbs:set(muslim..'Abs:Lock:Contact'..msg.chat_id_,true)
 else
-Dev_Abs(msg.chat_id_, msg.id_, 1, '️🇸🇦︙الجهات بالفعل مقفله في المجموعة', 1, 'md')
+Dev_Abs(msg.chat_id_, msg.id_, 1, '️🇸🇦︙الجهات بالفعل مقفل ه في المجموعة', 1, 'md')
 end
 end
 if LockText[2] == "الشبكات" then
 if not DevAbs:get(muslim..'Abs:Lock:WebLinks'..msg.chat_id_) then
-ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفلالشبكات")  
+ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفل الشبكات")  
 DevAbs:set(muslim..'Abs:Lock:WebLinks'..msg.chat_id_,true) 
 else
-Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙الشبكات بالفعل مقفله في المجموعة', 1, 'md')
+Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙الشبكات بالفعل مقفل ه في المجموعة', 1, 'md')
 end
 end
 if LockText[2] == "العربية" then
 if not DevAbs:get(muslim..'Abs:Lock:Arabic'..msg.chat_id_) then
-ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفلالعربية")  
+ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفل العربية")  
 DevAbs:set(muslim..'Abs:Lock:Arabic'..msg.chat_id_,true)
 else
-Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙العربية بالفعل مقفله في المجموعة', 1, 'md')
+Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙العربية بالفعل مقفل ه في المجموعة', 1, 'md')
 end
 end
 if LockText[2] == "الانجليزية" then
 if not DevAbs:get(muslim..'Abs:Lock:English'..msg.chat_id_) then
-ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفلالانجليزية")  
+ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفل الانجليزية")  
 DevAbs:set(muslim..'Abs:Lock:English'..msg.chat_id_,true)
 else
-Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙الانجليزية بالفعل مقفله في المجموعة', 1, 'md')
+Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙الانجليزية بالفعل مقفل ه في المجموعة', 1, 'md')
 end
 end
 if LockText[2] == "الملصقات" then
 if not DevAbs:get(muslim..'Abs:Lock:Stickers'..msg.chat_id_) then
-ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفلالملصقات")  
+ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفل الملصقات")  
 DevAbs:set(muslim..'Abs:Lock:Stickers'..msg.chat_id_,true)
 else
-Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙الملصقات بالفعل مقفله في المجموعة', 1, 'md')
+Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙الملصقات بالفعل مقفل ه في المجموعة', 1, 'md')
 end
 end
 if LockText[2] == "الماركداون" then
 if not DevAbs:get(muslim..'Abs:Lock:Markdown'..msg.chat_id_) then
-ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفلالماركداون")  
+ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفل الماركداون")  
 DevAbs:set(muslim..'Abs:Lock:Markdown'..msg.chat_id_,true)
 else
-Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙الماركداون بالفعل مقفل في المجموعة', 1, 'md')
+Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙الماركداون بالفعل مقفل  في المجموعة', 1, 'md')
 end
 end
 if LockText[2] == "الاشعارات" then
 if not DevAbs:get(muslim..'Abs:Lock:TagServr'..msg.chat_id_) then
-ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفلالاشعارات")  
+ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفل الاشعارات")  
 DevAbs:set(muslim..'Abs:Lock:TagServr'..msg.chat_id_,true)
 else
-Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙الاشعارات بالفعل مقفله في المجموعة', 1, 'md')
+Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙الاشعارات بالفعل مقفل ه في المجموعة', 1, 'md')
 end
 end
 if LockText[2] == "التوجيه" then
 if not DevAbs:get(muslim..'Abs:Lock:Forwards'..msg.chat_id_) then
-ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفلالتوجيه")  
+ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفل التوجيه")  
 DevAbs:set(muslim..'Abs:Lock:Forwards'..msg.chat_id_,true)
 else
-Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙التوجيه بالفعل مقفل في المجموعة', 1, 'md')
+Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙التوجيه بالفعل مقفل  في المجموعة', 1, 'md')
 end
 end
 end
@@ -8479,7 +8479,7 @@ end
 end
 end
 --     Source dev yousef     --
-if text and text:match("^قفلالتفليش$") or text and text:match("^تفعيل الحماية القصوى$") then
+if text and text:match("^قفل التفليش$") or text and text:match("^تفعيل الحماية القصوى$") then
 if not Constructor(msg) then
 Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙للمنشئين فقط', 1, 'md')
 else
@@ -8488,7 +8488,7 @@ LockList ={'Abs:Lock:Links','Abs:Lock:Contact','Abs:Lock:Forwards','Abs:Lock:Vid
 for i,Lock in pairs(LockList) do
 DevAbs:set(muslim..Lock..msg.chat_id_,true)
 end
-ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفلالتفليش")  
+ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفل التفليش")  
 end
 end
 if text and text:match("^فتح التفليش$") then
@@ -8504,7 +8504,7 @@ ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم فتح التفل
 end
 end
 --     Source dev yousef     --
-if text and text:match("^قفلالكل$") then
+if text and text:match("^قفل الكل$") then
 if not Constructor(msg) then
 Dev_Abs(msg.chat_id_, msg.id_, 1, '🇸🇦︙للمنشئين فقط', 1, 'md')
 else
@@ -8514,7 +8514,7 @@ LockList ={'Abs:Lock:EditMsgs','Abs:Lock:Farsi','Abs:Lock:TagServr','Abs:Lock:In
 for i,Lock in pairs(LockList) do
 DevAbs:set(muslim..Lock..msg.chat_id_,true)
 end
-ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفلجميع الاوامر")  
+ReplyStatus(msg,msg.sender_user_id_,"ReplyBy","🇸🇦︙تم قفل جميع الاوامر")  
 end
 end
 if text and text:match("^فتح الكل$") then
@@ -8856,35 +8856,35 @@ else
 lock_bots = "مفتوحة"    
 end
 --     Source dev yousef     --
-if DevAbs:get(muslim..'Abs:Lock:Text'..msg.chat_id_) then mute_text = 'مقفله' else mute_text = 'مفتوحة'end
-if DevAbs:get(muslim..'Abs:Lock:Photo'..msg.chat_id_) then mute_photo = 'مقفله' else mute_photo = 'مفتوحة' end
-if DevAbs:get(muslim..'Abs:Lock:Videos'..msg.chat_id_) then mute_video = 'مقفله' else mute_video = 'مفتوحة' end
-if DevAbs:get(muslim..'Abs:Lock:Gifs'..msg.chat_id_) then mute_gifs = 'مقفله' else mute_gifs = 'مفتوحة' end
-if DevAbs:get(muslim..'Abs:Lock:Music'..msg.chat_id_) then mute_music = 'مقفله' else mute_music = 'مفتوحة' end
-if DevAbs:get(muslim..'Abs:Lock:Inline'..msg.chat_id_) then mute_in = 'مقفله' else mute_in = 'مفتوحة' end
-if DevAbs:get(muslim..'Abs:Lock:Voice'..msg.chat_id_) then mute_voice = 'مقفله' else mute_voice = 'مفتوحة' end
-if DevAbs:get(muslim..'Abs:Lock:EditMsgs'..msg.chat_id_) then mute_edit = 'مقفله' else mute_edit = 'مفتوحة' end
-if DevAbs:get(muslim..'Abs:Lock:Links'..msg.chat_id_) then mute_links = 'مقفله' else mute_links = 'مفتوحة' end
-if DevAbs:get(muslim..'Abs:Lock:Pin'..msg.chat_id_) then lock_pin = 'مقفله' else lock_pin = 'مفتوحة' end
-if DevAbs:get(muslim..'Abs:Lock:Stickers'..msg.chat_id_) then lock_sticker = 'مقفله' else lock_sticker = 'مفتوحة' end
-if DevAbs:get(muslim..'Abs:Lock:TagServr'..msg.chat_id_) then lock_tgservice = 'مقفله' else lock_tgservice = 'مفتوحة' end
-if DevAbs:get(muslim..'Abs:Lock:WebLinks'..msg.chat_id_) then lock_wp = 'مقفله' else lock_wp = 'مفتوحة' end
-if DevAbs:get(muslim..'Abs:Lock:Hashtak'..msg.chat_id_) then lock_htag = 'مقفله' else lock_htag = 'مفتوحة' end
-if DevAbs:get(muslim..'Abs:Lock:Tags'..msg.chat_id_) then lock_tag = 'مقفله' else lock_tag = 'مفتوحة' end
-if DevAbs:get(muslim..'Abs:Lock:Location'..msg.chat_id_) then lock_location = 'مقفله' else lock_location = 'مفتوحة' end
-if DevAbs:get(muslim..'Abs:Lock:Contact'..msg.chat_id_) then lock_contact = 'مقفله' else lock_contact = 'مفتوحة' end
-if DevAbs:get(muslim..'Abs:Lock:English'..msg.chat_id_) then lock_english = 'مقفله' else lock_english = 'مفتوحة' end
-if DevAbs:get(muslim..'Abs:Lock:Arabic'..msg.chat_id_) then lock_arabic = 'مقفله' else lock_arabic = 'مفتوحة' end
-if DevAbs:get(muslim..'Abs:Lock:Forwards'..msg.chat_id_) then lock_forward = 'مقفله' else lock_forward = 'مفتوحة' end
-if DevAbs:get(muslim..'Abs:Lock:Document'..msg.chat_id_) then lock_file = 'مقفله' else lock_file = 'مفتوحة' end
-if DevAbs:get(muslim..'Abs:Lock:Markdown'..msg.chat_id_) then markdown = 'مقفله' else markdown = 'مفتوحة' end
-if DevAbs:get(muslim..'Abs:Lock:Spam'..msg.chat_id_) then lock_spam = 'مقفله' else lock_spam = 'مفتوحة' end
-if DevAbs:get(muslim..'Abs:Lock:Join'..msg.chat_id_) then lock_Join = 'مقفل' else lock_Join = 'مفتوح' end
-if DevAbs:get(muslim.."Abs:Lock:Welcome"..msg.chat_id_) then send_welcome = 'مقفله' else send_welcome = 'مفتوحة' end
-if DevAbs:get(muslim..'Abs:Lock:Fshar'..msg.chat_id_) then lock_fshar = 'مفتوح' else lock_fshar = 'مقفل' end
-if DevAbs:get(muslim..'Abs:Lock:Kfr'..msg.chat_id_) then lock_kaf = 'مفتوح' else lock_kaf = 'مقفل' end
-if DevAbs:get(muslim..'Abs:Lock:Taf'..msg.chat_id_) then lock_taf = 'مفتوحة' else lock_taf = 'مقفله' end
-if DevAbs:get(muslim..'Abs:Lock:Farsi'..msg.chat_id_) then lock_farsi = 'مقفله' else lock_farsi = 'مفتوحة' end
+if DevAbs:get(muslim..'Abs:Lock:Text'..msg.chat_id_) then mute_text = 'مقفل ه' else mute_text = 'مفتوحة'end
+if DevAbs:get(muslim..'Abs:Lock:Photo'..msg.chat_id_) then mute_photo = 'مقفل ه' else mute_photo = 'مفتوحة' end
+if DevAbs:get(muslim..'Abs:Lock:Videos'..msg.chat_id_) then mute_video = 'مقفل ه' else mute_video = 'مفتوحة' end
+if DevAbs:get(muslim..'Abs:Lock:Gifs'..msg.chat_id_) then mute_gifs = 'مقفل ه' else mute_gifs = 'مفتوحة' end
+if DevAbs:get(muslim..'Abs:Lock:Music'..msg.chat_id_) then mute_music = 'مقفل ه' else mute_music = 'مفتوحة' end
+if DevAbs:get(muslim..'Abs:Lock:Inline'..msg.chat_id_) then mute_in = 'مقفل ه' else mute_in = 'مفتوحة' end
+if DevAbs:get(muslim..'Abs:Lock:Voice'..msg.chat_id_) then mute_voice = 'مقفل ه' else mute_voice = 'مفتوحة' end
+if DevAbs:get(muslim..'Abs:Lock:EditMsgs'..msg.chat_id_) then mute_edit = 'مقفل ه' else mute_edit = 'مفتوحة' end
+if DevAbs:get(muslim..'Abs:Lock:Links'..msg.chat_id_) then mute_links = 'مقفل ه' else mute_links = 'مفتوحة' end
+if DevAbs:get(muslim..'Abs:Lock:Pin'..msg.chat_id_) then lock_pin = 'مقفل ه' else lock_pin = 'مفتوحة' end
+if DevAbs:get(muslim..'Abs:Lock:Stickers'..msg.chat_id_) then lock_sticker = 'مقفل ه' else lock_sticker = 'مفتوحة' end
+if DevAbs:get(muslim..'Abs:Lock:TagServr'..msg.chat_id_) then lock_tgservice = 'مقفل ه' else lock_tgservice = 'مفتوحة' end
+if DevAbs:get(muslim..'Abs:Lock:WebLinks'..msg.chat_id_) then lock_wp = 'مقفل ه' else lock_wp = 'مفتوحة' end
+if DevAbs:get(muslim..'Abs:Lock:Hashtak'..msg.chat_id_) then lock_htag = 'مقفل ه' else lock_htag = 'مفتوحة' end
+if DevAbs:get(muslim..'Abs:Lock:Tags'..msg.chat_id_) then lock_tag = 'مقفل ه' else lock_tag = 'مفتوحة' end
+if DevAbs:get(muslim..'Abs:Lock:Location'..msg.chat_id_) then lock_location = 'مقفل ه' else lock_location = 'مفتوحة' end
+if DevAbs:get(muslim..'Abs:Lock:Contact'..msg.chat_id_) then lock_contact = 'مقفل ه' else lock_contact = 'مفتوحة' end
+if DevAbs:get(muslim..'Abs:Lock:English'..msg.chat_id_) then lock_english = 'مقفل ه' else lock_english = 'مفتوحة' end
+if DevAbs:get(muslim..'Abs:Lock:Arabic'..msg.chat_id_) then lock_arabic = 'مقفل ه' else lock_arabic = 'مفتوحة' end
+if DevAbs:get(muslim..'Abs:Lock:Forwards'..msg.chat_id_) then lock_forward = 'مقفل ه' else lock_forward = 'مفتوحة' end
+if DevAbs:get(muslim..'Abs:Lock:Document'..msg.chat_id_) then lock_file = 'مقفل ه' else lock_file = 'مفتوحة' end
+if DevAbs:get(muslim..'Abs:Lock:Markdown'..msg.chat_id_) then markdown = 'مقفل ه' else markdown = 'مفتوحة' end
+if DevAbs:get(muslim..'Abs:Lock:Spam'..msg.chat_id_) then lock_spam = 'مقفل ه' else lock_spam = 'مفتوحة' end
+if DevAbs:get(muslim..'Abs:Lock:Join'..msg.chat_id_) then lock_Join = 'مقفل ' else lock_Join = 'مفتوح' end
+if DevAbs:get(muslim.."Abs:Lock:Welcome"..msg.chat_id_) then send_welcome = 'مقفل ه' else send_welcome = 'مفتوحة' end
+if DevAbs:get(muslim..'Abs:Lock:Fshar'..msg.chat_id_) then lock_fshar = 'مفتوح' else lock_fshar = 'مقفل ' end
+if DevAbs:get(muslim..'Abs:Lock:Kfr'..msg.chat_id_) then lock_kaf = 'مفتوح' else lock_kaf = 'مقفل ' end
+if DevAbs:get(muslim..'Abs:Lock:Taf'..msg.chat_id_) then lock_taf = 'مفتوحة' else lock_taf = 'مقفل ه' end
+if DevAbs:get(muslim..'Abs:Lock:Farsi'..msg.chat_id_) then lock_farsi = 'مقفل ه' else lock_farsi = 'مفتوحة' end
 local Flood_Num = DevAbs:hget(muslim.."Abs:Spam:Group:User"..msg.chat_id_,"Num:Spam") or 5
 --     Source dev yousef     --
 local TXTE = "🇸🇦︙اعدادات المجموعة -› ⤈\n------------ Y●L ------------\n"
@@ -9236,22 +9236,22 @@ end
 --     Source dev yousef     --
 if Admin(msg) then
 if DevAbs:get(muslim..'Abs:LockSettings'..msg.chat_id_) then 
-if text == "الروابط" then if DevAbs:get(muslim..'Abs:Lock:Links'..msg.chat_id_) then mute_links = 'مقفله' else mute_links = 'مفتوحة' end local devyousef = "\n" .."🇸🇦︙الروابط -› "..mute_links.."\n" Dev_Abs(msg.chat_id_, msg.id_, 1, devyousef, 1, 'md') end
+if text == "الروابط" then if DevAbs:get(muslim..'Abs:Lock:Links'..msg.chat_id_) then mute_links = 'مقفل ه' else mute_links = 'مفتوحة' end local devyousef = "\n" .."🇸🇦︙الروابط -› "..mute_links.."\n" Dev_Abs(msg.chat_id_, msg.id_, 1, devyousef, 1, 'md') end
 if text == "المعرف" or text == "المعرفات" then if DevAbs:get(muslim..'Abs:Lock:Tags'..msg.chat_id_) then lock_tag = 'مقفوله' else lock_tag = 'مفتوحة' end local devyousef = "\n" .."🇸🇦︙المعرف -› "..lock_tag.."\n" Dev_Abs(msg.chat_id_, msg.id_, 1, devyousef, 1, 'md') end
 if text == "المتحركة" or text == "الملصقات المتحركة" then if DevAbs:get(muslim..'Abs:Lock:Gifs'..msg.chat_id_) then mute_gifs = 'مقفوله' else mute_gifs = 'مفتوحة' end local devyousef = "\n" .."🇸🇦︙المتحركة -› "..mute_gifs.."\n" Dev_Abs(msg.chat_id_, msg.id_, 1, devyousef, 1, 'md') end
 if text == "الملصقات" then if DevAbs:get(muslim..'Abs:Lock:Stickers'..msg.chat_id_) then lock_sticker = 'مقفوله' else lock_sticker = 'مفتوحة' end local devyousef = "\n" .."🇸🇦︙الملصقات -› "..lock_sticker.."\n" Dev_Abs(msg.chat_id_, msg.id_, 1, devyousef, 1, 'md') end
 if text == "الصور" then if DevAbs:get(muslim..'Abs:Lock:Photo'..msg.chat_id_) then mute_photo = 'مقفوله' else mute_photo = 'مفتوحة' end local devyousef = "\n" .."🇸🇦︙الصور -› "..mute_photo.."\n" Dev_Abs(msg.chat_id_, msg.id_, 1, devyousef, 1, 'md') end
 if text == "الفيديو" or text == "الفيديوهات" then if DevAbs:get(muslim..'Abs:Lock:Videos'..msg.chat_id_) then mute_video = 'مقفوله' else mute_video = 'مفتوحة' end local devyousef = "\n" .."🇸🇦︙الفيديو -› "..mute_video.."\n" Dev_Abs(msg.chat_id_, msg.id_, 1, devyousef, 1, 'md') end
-if text == "الاونلاين" then if DevAbs:get(muslim..'Abs:Lock:Inline'..msg.chat_id_) then mute_in = 'مقفل' else mute_in = 'مفتوح' end local devyousef = "\n" .."🇸🇦︙الاونلاين -› "..mute_in.."\n" Dev_Abs(msg.chat_id_, msg.id_, 1, devyousef, 1, 'md') end
-if text == "الدردشة" then if DevAbs:get(muslim..'Abs:Lock:Text'..msg.chat_id_) then mute_text = 'مقفله' else mute_text = 'مفتوحة' end local devyousef = "\n" .."🇸🇦︙الدردشة -› "..mute_text.."\n" Dev_Abs(msg.chat_id_, msg.id_, 1, devyousef, 1, 'md') end
-if text == "التوجيه" or text == "اعاده التوجيه" then if DevAbs:get(muslim..'Abs:Lock:Forwards'..msg.chat_id_) then lock_forward = 'مقفل' else lock_forward = 'مفتوح' end local devyousef = "\n" .."🇸🇦︙التوجيه -› "..lock_forward.."\n" Dev_Abs(msg.chat_id_, msg.id_, 1, devyousef, 1, 'md') end
+if text == "الاونلاين" then if DevAbs:get(muslim..'Abs:Lock:Inline'..msg.chat_id_) then mute_in = 'مقفل ' else mute_in = 'مفتوح' end local devyousef = "\n" .."🇸🇦︙الاونلاين -› "..mute_in.."\n" Dev_Abs(msg.chat_id_, msg.id_, 1, devyousef, 1, 'md') end
+if text == "الدردشة" then if DevAbs:get(muslim..'Abs:Lock:Text'..msg.chat_id_) then mute_text = 'مقفل ه' else mute_text = 'مفتوحة' end local devyousef = "\n" .."🇸🇦︙الدردشة -› "..mute_text.."\n" Dev_Abs(msg.chat_id_, msg.id_, 1, devyousef, 1, 'md') end
+if text == "التوجيه" or text == "اعاده التوجيه" then if DevAbs:get(muslim..'Abs:Lock:Forwards'..msg.chat_id_) then lock_forward = 'مقفل ' else lock_forward = 'مفتوح' end local devyousef = "\n" .."🇸🇦︙التوجيه -› "..lock_forward.."\n" Dev_Abs(msg.chat_id_, msg.id_, 1, devyousef, 1, 'md') end
 if text == "الاغاني" then if DevAbs:get(muslim..'Abs:Lock:Music'..msg.chat_id_) then mute_music = 'مقفوله' else mute_music = 'مفتوحة' end local devyousef = "\n" .."🇸🇦︙الاغاني -› "..mute_music.."\n" Dev_Abs(msg.chat_id_, msg.id_, 1, devyousef, 1, 'md') end
 if text == "الصوت" or text == "الصوتيات" then if DevAbs:get(muslim..'Abs:Lock:Voice'..msg.chat_id_) then mute_voice = 'مقفول' else mute_voice = 'مفتوح' end local devyousef = "\n" .."🇸🇦︙الصوت -› "..mute_voice.."\n" Dev_Abs(msg.chat_id_, msg.id_, 1, devyousef, 1, 'md') end
 if text == "الجهات" or text == "جهات الاتصال" then if DevAbs:get(muslim..'Abs:Lock:Contact'..msg.chat_id_) then lock_contact = 'مقفوله' else lock_contact = 'مفتوحة' end local devyousef = "\n" .."🇸🇦︙الجهات -› "..lock_contact.."\n" Dev_Abs(msg.chat_id_, msg.id_, 1, devyousef, 1, 'md') end
-if text == "الماركداون" then if DevAbs:get(muslim..'Abs:Lock:Markdown'..msg.chat_id_) then markdown = 'مقفل' else markdown = 'مفتوح' end local devyousef = "\n" .."🇸🇦︙الماركداون -› "..markdown.."\n" Dev_Abs(msg.chat_id_, msg.id_, 1, devyousef, 1, 'md') end
-if text == "الهاشتاك" then if DevAbs:get(muslim..'Abs:Lock:Hashtak'..msg.chat_id_) then lock_htag = 'مقفل' else lock_htag = 'مفتوح' end local devyousef = "\n" .."🇸🇦︙الهاشتاك -› "..lock_htag.."\n"Dev_Abs(msg.chat_id_, msg.id_, 1, devyousef, 1, 'md') end
-if text == "التعديل" then if DevAbs:get(muslim..'Abs:Lock:EditMsgs'..msg.chat_id_) then mute_edit = 'مقفل' else mute_edit = 'مفتوح' end local devyousef = "\n" .."🇸🇦︙التعديل -› "..mute_edit.."\n" Dev_Abs(msg.chat_id_, msg.id_, 1, devyousef, 1, 'md') end
-if text == "التثبيت" then if DevAbs:get(muslim..'Abs:Lock:Pin'..msg.chat_id_) then lock_pin = 'مقفل' else lock_pin = 'مفتوح' end local devyousef = "\n" .."🇸🇦︙التثبيت -› "..lock_pin.."\n" Dev_Abs(msg.chat_id_, msg.id_, 1, devyousef, 1, 'md') end
+if text == "الماركداون" then if DevAbs:get(muslim..'Abs:Lock:Markdown'..msg.chat_id_) then markdown = 'مقفل ' else markdown = 'مفتوح' end local devyousef = "\n" .."🇸🇦︙الماركداون -› "..markdown.."\n" Dev_Abs(msg.chat_id_, msg.id_, 1, devyousef, 1, 'md') end
+if text == "الهاشتاك" then if DevAbs:get(muslim..'Abs:Lock:Hashtak'..msg.chat_id_) then lock_htag = 'مقفل ' else lock_htag = 'مفتوح' end local devyousef = "\n" .."🇸🇦︙الهاشتاك -› "..lock_htag.."\n"Dev_Abs(msg.chat_id_, msg.id_, 1, devyousef, 1, 'md') end
+if text == "التعديل" then if DevAbs:get(muslim..'Abs:Lock:EditMsgs'..msg.chat_id_) then mute_edit = 'مقفل ' else mute_edit = 'مفتوح' end local devyousef = "\n" .."🇸🇦︙التعديل -› "..mute_edit.."\n" Dev_Abs(msg.chat_id_, msg.id_, 1, devyousef, 1, 'md') end
+if text == "التثبيت" then if DevAbs:get(muslim..'Abs:Lock:Pin'..msg.chat_id_) then lock_pin = 'مقفل ' else lock_pin = 'مفتوح' end local devyousef = "\n" .."🇸🇦︙التثبيت -› "..lock_pin.."\n" Dev_Abs(msg.chat_id_, msg.id_, 1, devyousef, 1, 'md') end
 if text == "الاشعارات" then if DevAbs:get(muslim..'Abs:Lock:TagServr'..msg.chat_id_) then lock_tgservice = 'مقفوله' else lock_tgservice = 'مفتوحة' end local devyousef = "\n" .."🇸🇦︙الاشعارات -› "..lock_tgservice.."\n" Dev_Abs(msg.chat_id_, msg.id_, 1, devyousef, 1, 'md') end
 if text == "المنشورات" then if DevAbs:get(muslim..'Abs:Lock:Spam'..msg.chat_id_) then lock_spam = 'مقفوله' else lock_spam = 'مفتوحة' end local devyousef = "\n" .."🇸🇦︙المنشورات -› "..lock_spam.."\n" Dev_Abs(msg.chat_id_, msg.id_, 1, devyousef, 1, 'md') end
 if text == "الدخول" then if DevAbs:get(muslim..'Abs:Lock:Join'..msg.chat_id_) then lock_Join = 'مقفول' else lock_Join = 'مفتوح' end local devyousef = "\n" .."🇸🇦︙الدخول -› "..lock_Join.."\n" Dev_Abs(msg.chat_id_, msg.id_, 1, devyousef, 1, 'md') end
@@ -9259,9 +9259,9 @@ if text == "الشبكات" then if DevAbs:get(muslim..'Abs:Lock:WebLinks'..msg.
 if text == "المواقع" then if DevAbs:get(muslim..'Abs:Lock:Location'..msg.chat_id_) then lock_location = 'مقفوله' else lock_location = 'مفتوحة' end local devyousef = "\n" .."🇸🇦︙المواقع -› "..lock_location.."\n" Dev_Abs(msg.chat_id_, msg.id_, 1, devyousef, 1, 'md') end
 if text == "العربية" then if DevAbs:get(muslim..'Abs:Lock:Arabic'..msg.chat_id_) then lock_arabic = 'مقفوله' else lock_arabic = 'مفتوحة' end local devyousef = "\n" .."🇸🇦︙العربية -› "..lock_arabic.."\n" Dev_Abs(msg.chat_id_, msg.id_, 1, devyousef, 1, 'md') end
 if text == "الانجليزية" then if DevAbs:get(muslim..'Abs:Lock:English'..msg.chat_id_) then lock_english = 'مقفوله' else lock_english = 'مفتوحة' end local devyousef = "\n" .."🇸🇦︙الانجليزية -› "..lock_english.."\n" Dev_Abs(msg.chat_id_, msg.id_, 1, devyousef, 1, 'md') end
-if text == "الكفر" then if DevAbs:get(muslim..'Abs:Lock:Kfr'..msg.chat_id_) then lock_kaf = 'مفتوح' else lock_kaf = 'مقفل' end local devyousef = "\n" .."🇸🇦︙الكفر -› "..lock_kaf.."\n" Dev_Abs(msg.chat_id_, msg.id_, 1, devyousef, 1, 'md') end
-if text == "السب" then if DevAbs:get(muslim..'Abs:Lock:Fshar'..msg.chat_id_) then lock_fshar = 'مفتوح' else lock_fshar = 'مقفل' end local devyousef = "\n" .."🇸🇦︙السب -› "..lock_fshar.."\n" Dev_Abs(msg.chat_id_, msg.id_, 1, devyousef, 1, 'md') end
-if text == "الطائفيه" then if DevAbs:get(muslim..'Abs:Lock:Taf'..msg.chat_id_) then lock_taf = 'مفتوحة' else lock_taf = 'مقفله' end local devyousef = "\n" .."🇸🇦︙الطائفيه -› "..lock_taf.."\n" Dev_Abs(msg.chat_id_, msg.id_, 1, devyousef, 1, 'md') end
+if text == "الكفر" then if DevAbs:get(muslim..'Abs:Lock:Kfr'..msg.chat_id_) then lock_kaf = 'مفتوح' else lock_kaf = 'مقفل ' end local devyousef = "\n" .."🇸🇦︙الكفر -› "..lock_kaf.."\n" Dev_Abs(msg.chat_id_, msg.id_, 1, devyousef, 1, 'md') end
+if text == "السب" then if DevAbs:get(muslim..'Abs:Lock:Fshar'..msg.chat_id_) then lock_fshar = 'مفتوح' else lock_fshar = 'مقفل ' end local devyousef = "\n" .."🇸🇦︙السب -› "..lock_fshar.."\n" Dev_Abs(msg.chat_id_, msg.id_, 1, devyousef, 1, 'md') end
+if text == "الطائفيه" then if DevAbs:get(muslim..'Abs:Lock:Taf'..msg.chat_id_) then lock_taf = 'مفتوحة' else lock_taf = 'مقفل ه' end local devyousef = "\n" .."🇸🇦︙الطائفيه -› "..lock_taf.."\n" Dev_Abs(msg.chat_id_, msg.id_, 1, devyousef, 1, 'md') end
 end
 --     Source dev yousef     --
 if text == 'تفعيل كشف الاعدادات' and ChCheck(msg) then 
@@ -9286,7 +9286,7 @@ absmoned(msg.chat_id_, msg.sender_user_id_, msg.id_, devyousef, 14, string.len(m
 DevAbs:set(muslim..'Abs:Lock:Stupid'..msg.chat_id_,true)
 end
 --     Source dev yousef     --
-if text and (text == 'تعطيل التحقق' or text == 'قفلالتحقق' or text == 'تعطيل تنبيه الدخول') and Manager(msg) and ChCheck(msg) then 
+if text and (text == 'تعطيل التحقق' or text == 'قفل التحقق' or text == 'تعطيل تنبيه الدخول') and Manager(msg) and ChCheck(msg) then 
 local devyousef = '🇸🇦︙اهلا عزيزي -› '..AbsRank(msg)..' \n🇸🇦︙تم تعطيل التحقق بنجاح'
 absmoned(msg.chat_id_, msg.sender_user_id_, msg.id_, devyousef, 14, string.len(msg.sender_user_id_))
 DevAbs:del(muslim..'Abs:Lock:Robot'..msg.chat_id_)
@@ -9395,7 +9395,7 @@ end
 if Manager(msg) then
 if text and text:match("^الغاء تثبيت$") and ChCheck(msg) or text and text:match("^الغاء التثبيت$") and ChCheck(msg) then
 if DevAbs:sismember(muslim.."Abs:Lock:Pinpin",msg.chat_id_) and not BasicConstructor(msg) then
-Dev_Abs(msg.chat_id_,msg.id_, 1, "🇸🇦︙التثبيت والغاء واعادة التثبيت تم قفله من قبل المنشئين الاساسيين", 1, 'md')
+Dev_Abs(msg.chat_id_,msg.id_, 1, "🇸🇦︙التثبيت والغاء واعادة التثبيت تم قفل ه من قبل المنشئين الاساسيين", 1, 'md')
 return false  
 end
 tdcli_function({ID="UnpinChannelMessage",channel_id_ = msg.chat_id_:gsub("-100","")},function(arg,data) 
@@ -9418,7 +9418,7 @@ end
 --     Source dev yousef     --
 if text and text:match("^الغاء تثبيت الكل$") then  
 if DevAbs:sismember(muslim.."Abs:Lock:Pinpin",msg.chat_id_) and not BasicConstructor(msg) then
-Dev_Abs(msg.chat_id_,msg.id_, 1, "🇸🇦︙التثبيت والغاء واعادة التثبيت تم قفله من قبل المنشئين الاساسيين", 1, 'md')
+Dev_Abs(msg.chat_id_,msg.id_, 1, "🇸🇦︙التثبيت والغاء واعادة التثبيت تم قفل ه من قبل المنشئين الاساسيين", 1, 'md')
 return false  
 end
 tdcli_function({ID="UnpinChannelMessage",channel_id_ = msg.chat_id_:gsub("-100","")},function(arg,data) 
@@ -9442,7 +9442,7 @@ end
 --     Source dev yousef     --
 if text and text:match("^اعاده تثبيت$") and ChCheck(msg) or text and text:match("^اعاده التثبيت$") and ChCheck(msg) or text and text:match("^اعادة التثبيت$") and ChCheck(msg) then
 if DevAbs:sismember(muslim.."Abs:Lock:Pinpin",msg.chat_id_) and not BasicConstructor(msg) then
-Dev_Abs(msg.chat_id_,msg.id_, 1, "🇸🇦︙التثبيت والغاء واعادة التثبيت تم قفله من قبل المنشئين الاساسيين", 1, 'md')
+Dev_Abs(msg.chat_id_,msg.id_, 1, "🇸🇦︙التثبيت والغاء واعادة التثبيت تم قفل ه من قبل المنشئين الاساسيين", 1, 'md')
 return false  
 end
 local PinId = DevAbs:get(muslim..'Abs:PinnedMsg'..msg.chat_id_)
@@ -10375,45 +10375,45 @@ local Help = DevAbs:get(muslim..'Abs:Help1')
 local Text = [[
 🇸🇦︙اوامر حماية المجموعة -› ⤈
 ------------ Y●L ------------
-🇸🇦︙قفل• فتح -› الروابط
-🇸🇦︙قفل• فتح -› المعرفات
-🇸🇦︙قفل• فتح -› البوتات
-🇸🇦︙قفل• فتح -› المتحركة
-🇸🇦︙قفل• فتح -› الملصقات
-🇸🇦︙قفل• فتح -› الملفات
-🇸🇦︙قفل• فتح -› الصور
-🇸🇦︙قفل• فتح -› الفيديو
-🇸🇦︙قفل• فتح -› الاونلاين
-🇸🇦︙قفل• فتح -› الدردشة
-🇸🇦︙قفل• فتح -› التوجيه
-🇸🇦︙قفل• فتح -› الاغاني
-🇸🇦︙قفل• فتح -› الصوت
-🇸🇦︙قفل• فتح -› الجهات
-🇸🇦︙قفل• فتح -› الماركداون
-🇸🇦︙قفل• فتح -› التكرار
-🇸🇦︙قفل• فتح -› الهاشتاك
-🇸🇦︙قفل• فتح -› التعديل
-🇸🇦︙قفل• فتح -› التثبيت
-🇸🇦︙قفل• فتح -› الاشعارات
-🇸🇦︙قفل• فتح -› المنشورات
-🇸🇦︙قفل• فتح -› الدخول
-🇸🇦︙قفل• فتح -› الشبكات
-🇸🇦︙قفل• فتح -› المواقع
-🇸🇦︙قفل• فتح -› السب
-🇸🇦︙قفل• فتح -› الكفر
-🇸🇦︙قفل• فتح -› الطائفيه
-🇸🇦︙قفل• فتح -› الكل
-🇸🇦︙قفل• فتح -› العربية
-🇸🇦︙قفل• فتح -› الانجليزية
-🇸🇦︙قفل• فتح -› الفارسية
-🇸🇦︙قفل• فتح -› التفليش
-🇸🇦︙قفل• فتح -› امسح
+🇸🇦︙قفل • فتح -› الروابط
+🇸🇦︙قفل • فتح -› المعرفات
+🇸🇦︙قفل • فتح -› البوتات
+🇸🇦︙قفل • فتح -› المتحركة
+🇸🇦︙قفل • فتح -› الملصقات
+🇸🇦︙قفل • فتح -› الملفات
+🇸🇦︙قفل • فتح -› الصور
+🇸🇦︙قفل • فتح -› الفيديو
+🇸🇦︙قفل • فتح -› الاونلاين
+🇸🇦︙قفل • فتح -› الدردشة
+🇸🇦︙قفل • فتح -› التوجيه
+🇸🇦︙قفل • فتح -› الاغاني
+🇸🇦︙قفل • فتح -› الصوت
+🇸🇦︙قفل • فتح -› الجهات
+🇸🇦︙قفل • فتح -› الماركداون
+🇸🇦︙قفل • فتح -› التكرار
+🇸🇦︙قفل • فتح -› الهاشتاك
+🇸🇦︙قفل • فتح -› التعديل
+🇸🇦︙قفل • فتح -› التثبيت
+🇸🇦︙قفل • فتح -› الاشعارات
+🇸🇦︙قفل • فتح -› المنشورات
+🇸🇦︙قفل • فتح -› الدخول
+🇸🇦︙قفل • فتح -› الشبكات
+🇸🇦︙قفل • فتح -› المواقع
+🇸🇦︙قفل • فتح -› السب
+🇸🇦︙قفل • فتح -› الكفر
+🇸🇦︙قفل • فتح -› الطائفيه
+🇸🇦︙قفل • فتح -› الكل
+🇸🇦︙قفل • فتح -› العربية
+🇸🇦︙قفل • فتح -› الانجليزية
+🇸🇦︙قفل • فتح -› الفارسية
+🇸🇦︙قفل • فتح -› التفليش
+🇸🇦︙قفل • فتح -› امسح
 🇸🇦︙تعطيل • تفعيل -› امسح
 🇸🇦︙تعطيل • تفعيل -› الحذف التقائي
 ------------ Y●L ------------
 🇸🇦︙اوامر حماية اخرى -› ⤈
 ------------ Y●L ------------
-🇸🇦︙قفل• فتح + الامر -› ⤈
+🇸🇦︙قفل • فتح + الامر -› ⤈
 🇸🇦︙التكرار بالطرد
 🇸🇦︙التكرار بالكتم
 🇸🇦︙التكرار بالتقيد
