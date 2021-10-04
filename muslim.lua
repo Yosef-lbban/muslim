@@ -7583,7 +7583,7 @@ end
 --     Source dev yousef     --
 if ChatType == 'sp' or ChatType == 'gp'  then
 if Admin(msg) then
-if text and text:match("^قفل (.*)$") then
+if text and text:match("^قفل(.*)$") then
 local LockText = {string.match(text, "^(قفل ) (.*)$")}
 if LockText[2] == "التعديل" then
 if not DevAbs:get(muslim..'Abs:Lock:EditMsgs'..msg.chat_id_) then
@@ -8116,7 +8116,7 @@ end
 end
 --     Source dev yousef     --
 if Admin(msg) then
-if text and text:match("^قفل (.*)$") then
+if text and text:match("^قفل(.*)$") then
 local LockText = {string.match(text, "^(قفل ) (.*)$")}
 if LockText[2] == "الدردشة" then
 if not DevAbs:get(muslim..'Abs:Lock:Text'..msg.chat_id_) then
